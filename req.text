@@ -1,0 +1,7 @@
+python==3.7.12
+numpy
+pandas
+matplotlib
+opencv-python==3.4.4
+statsmodels
+scikit-learn 
